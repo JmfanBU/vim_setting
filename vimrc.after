@@ -1,8 +1,6 @@
 " Gundo
-map <leader>u :GundoToggle<CR>
+map <leader>r :GundoToggle<CR>
 
-" YankRing
-map <leader>y :YRShow<CR>
 
 syntax on
 " color molokai

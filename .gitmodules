@@ -34,3 +34,6 @@
 [submodule "janus/vim"]
 	path = janus/vim
 	url = https://github.com/dracula/vim.git
+[submodule "janus/vim-airline-themes"]
+	path = janus/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git

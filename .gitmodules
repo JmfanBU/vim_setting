@@ -7,3 +7,6 @@
 [submodule "janus/vimtex"]
 	path = janus/vimtex
 	url = https://github.com/lervag/vimtex.git
+[submodule "janus/syntastic"]
+	path = janus/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git

@@ -13,3 +13,6 @@
 [submodule "janus/YouCompleteMe"]
 	path = janus/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "janus/python-mode"]
+	path = janus/python-mode
+	url = https://github.com/python-mode/python-mode.git

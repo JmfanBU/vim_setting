@@ -22,3 +22,6 @@
 [submodule "janus/vim-expand-region"]
 	path = janus/vim-expand-region
 	url = https://github.com/terryma/vim-expand-region.git
+[submodule "janus/onedark.vim"]
+	path = janus/onedark.vim
+	url = https://github.com/joshdick/onedark.vim.git

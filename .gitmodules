@@ -16,3 +16,6 @@
 [submodule "janus/python-mode"]
 	path = janus/python-mode
 	url = https://github.com/python-mode/python-mode.git
+[submodule "janus/vim-superman"]
+	path = janus/vim-superman
+	url = https://github.com/jez/vim-superman.git

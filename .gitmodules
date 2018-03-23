@@ -28,3 +28,6 @@
 [submodule "janus/ycmd"]
 	path = janus/ycmd
 	url = https://github.com/Valloric/ycmd.git
+[submodule "janus/vim-airline"]
+	path = janus/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git

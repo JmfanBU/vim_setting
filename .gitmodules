@@ -4,3 +4,6 @@
 [submodule "janus/vim-markdown"]
 	path = janus/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "janus/vimtex"]
+	path = janus/vimtex
+	url = https://github.com/lervag/vimtex.git

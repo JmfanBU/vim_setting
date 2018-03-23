@@ -10,3 +10,6 @@
 [submodule "janus/syntastic"]
 	path = janus/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "janus/YouCompleteMe"]
+	path = janus/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git

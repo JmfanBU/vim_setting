@@ -1,3 +1,6 @@
 [submodule "janus/vim-cpp-enhanced-highlight"]
 	path = janus/vim-cpp-enhanced-highlight
 	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "janus/vim-markdown"]
+	path = janus/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
